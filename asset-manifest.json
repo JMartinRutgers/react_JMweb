@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_JMweb/static/css/main.794f5179.css",
+    "main.js": "/react_JMweb/static/js/main.ef628689.js",
+    "static/media/me-about.png": "/react_JMweb/static/media/me-about.6b775874a5808f79c147.png",
+    "static/media/Me.png": "/react_JMweb/static/media/Me.fc314485e33f7ce1b22c.png",
+    "static/media/Resume-Tech.pdf": "/react_JMweb/static/media/Resume-Tech.05a1e8a481b6f32de777.pdf",
+    "index.html": "/react_JMweb/index.html",
+    "main.794f5179.css.map": "/react_JMweb/static/css/main.794f5179.css.map",
+    "main.ef628689.js.map": "/react_JMweb/static/js/main.ef628689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794f5179.css",
+    "static/js/main.ef628689.js"
+  ]
+}
